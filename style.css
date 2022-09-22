@@ -1,0 +1,45 @@
+body{
+    background-color: gray;
+}
+.navbar{
+    display:flex ;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.center{
+    text-align: center;
+    background-image: url("2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    color: white;
+    padding-bottom: 15px;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.a{
+    background-color: rgb(47, 47, 240);
+    padding: 7px;
+}
+img{
+    display: inline-block;
+    padding-left: 15px;
+}
+.botton{
+    text-align: center;
+    
+}
+.left{
+    display: inline-block;
+    padding:15px ;
+
+   }
